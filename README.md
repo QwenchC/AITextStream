@@ -5,6 +5,7 @@
 ![GitHub License](https://img.shields.io/github/license/yourusername/AITextStream)
 
 面向ComfyUI的智能文本生成工作流解决方案，支持多变量提示词引擎和大模型API集成。
+模仿了Dify.ai的工作流，可自行接入模型提供商的api作为文本生成的核心。
 
 ## 功能亮点 ✨
 
