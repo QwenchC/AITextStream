@@ -1,0 +1,2 @@
+# AITextStream
+面向ComfyUI的智能文本生成工作流解决方案，支持多变量提示词引擎和大模型API集成。
